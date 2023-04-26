@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Te amo desde aquí a la luna ❤</title>
+    <meta charset="UTF-8">
+    <style>
+      body {
+        background-color: #E6E6FA; /* morado claro */
+        font-family: sans-serif;
+        text-align: center;
+      }
+      
+      h1 {
+        background-color: #D8BFD8; /* morado suave */
+        color: #FFFFFF; /* blanco */
+        padding: 10px;
+      }
+      
+      p {
+        font-style: italic;
+        font-size: 1.2em;
+        color: #800080; /* púrpura */
+        margin: 30px auto;
+        width: 50%;
+      }
+      
+      a {
+        color: #4B0082; /* índigo */
+        text-decoration: none;
+      }
+      
+      a:hover {
+        text-decoration: underline;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Te amo desde aquí a la luna ❤</h1>
+    <p>
+     Chiqui, eres la personita<br>Que siempre quiero en mi vida <br>Gracias por todo. <br>Esto es pa ti ❤.
+    </p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/dfCsYsKMPGc" 
+    title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; 
+    clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <p>Siempre pienso en ti con esta cancion:</p>
+    <p><a href="https://www.youtube.com/embed/dfCsYsKMPGc">Te amo ❤</a></p>
+  </body>
+</html>
